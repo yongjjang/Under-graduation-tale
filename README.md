@@ -1,6 +1,7 @@
 # Under-graduation-tale
 기존의 인디게임 Undertale을 오마주한 산성비 타자 게임
 - 하늘에서 쏟아지는 과제를 재빠르게 수행하는 학부생의 모습을 표현한 게임입니다.
+- 배경 음악, 효과음 등은 저작권 문제 등으로 업로드하지 않았습니다.
 
 - 사용한 오픈소스
   - 텍스트 인풋 박스(https://github.com/Nearoo/pygame-text-input)
